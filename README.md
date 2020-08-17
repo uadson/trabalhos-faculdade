@@ -4,15 +4,16 @@ Repositório com arquivos de projetos realizados durante o curso. Foram elaborad
 Repositório com alguns exemplos de projetos e algoritmos produzidos a partir das aulas do curso de Análise e Desenvolvimento de Sistemas
 
 
-1 - Aula de Algoritmos
+1 - Algoritmos
 
 Exemplos básicos de algoritmos na linguagem c++.
 
 Foram abordados os temas:
-- Variáveis
-- Tipos de Dados
-- Estruturas de Decisão
-- Estruturas de Repetição
+- Variáveis;
+- Tipos de Dados;
+- Estruturas de Decisão;
+- Estruturas de Repetição;
+- Estrutura de Dados.
 
 Projeto Final
 
@@ -24,7 +25,6 @@ Exemplos do básico a intermediário de projetos na linguagem Java.
 
 
 - Tipos de Dados;
-- Estrutura de Dados;
 - Estrutura de Decisão;
 - Estrutura de Repetição;
 - Desenvolvimento Desktop;
