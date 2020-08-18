@@ -27,6 +27,7 @@ Exemplos do básico a intermediário de projetos na linguagem Java.
 - Tipos de Dados;
 - Estrutura de Decisão;
 - Estrutura de Repetição;
+- Orientação a Objetos;
 - Desenvolvimento Desktop;
 - Desenvolvimento Web;
 - Conexão com Servidor e Banco de Dados.
