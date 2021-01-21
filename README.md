@@ -1,4 +1,4 @@
-# projetos-faculdade
+# Trabalhos da Faculdade
 Repositório com arquivos de projetos realizados durante o curso. Foram elaborados em C++ e Java.
 
 Repositório com alguns exemplos de projetos e algoritmos produzidos a partir das aulas do curso de Análise e Desenvolvimento de Sistemas
